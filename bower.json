@@ -1,0 +1,17 @@
+{
+  "name": "ShareKey",
+  "version": "0.0.0",
+  "description": "Secure key sharing",
+  "main": "index.js",
+  "authors": [
+    "russkinnv"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

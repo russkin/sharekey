@@ -1,0 +1,17 @@
+{
+  "name": "ShareKey",
+  "version": "0.0.0",
+  "description": "Secure key sharing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "russkinnv",
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "~3.9.0"
+  },
+  "devDependencies": {
+    "readline-sync": "~1.2.19"
+  }
+}
